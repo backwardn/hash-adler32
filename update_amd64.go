@@ -7,7 +7,7 @@
 package adler32
 
 import (
-	"internal/cpu"
+	"golang.org/x/sys/cpu"
 )
 
 // go:noescape
